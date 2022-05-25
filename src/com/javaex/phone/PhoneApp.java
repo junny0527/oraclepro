@@ -69,7 +69,7 @@ public class PhoneApp {
 
 				} else {
 
-					System.out.println("등록 실팽");
+					System.out.println("등록 실패");
 
 				}
 
@@ -182,7 +182,7 @@ public class PhoneApp {
 
 					PersonCompany = vo.getPersonCompany();
 
-					// 뭘 변경할건지 물어볼꺼야.
+					// 뭘 변경할건지 물어볼꺼.
 
 					System.out.print("변경하실 내용 : 선택 [1]이름, [2]연락처, [3]화사번호, [4]전체변경 :");
 
